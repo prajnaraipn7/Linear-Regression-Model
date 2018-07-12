@@ -1,4 +1,4 @@
-# Linear-Regression-Model
+# Linear-Regression-Model --- Insurance Claims Prediction
 We will use Swedish insurance dataset – called as Auto insurance dataset
 
 X is the total claims
