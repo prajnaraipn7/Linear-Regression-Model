@@ -51,3 +51,5 @@ We are finding the error by Root Mean Square Error of the predictions. We are ev
 
 RMSE =SQRT(sum((y prediction –y actual)^2)/N)
 That is RMSE = SQRT(sum(prediction error)^2)/N)
+
+This is replicated from https://machinelearningmastery.com/implement-simple-linear-regression-scratch-python/#comment-443299
